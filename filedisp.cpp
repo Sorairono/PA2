@@ -1,3 +1,4 @@
+//This program display the result of filecnt program to the console window
 #include <string>
 #include <string.h>
 #include <iostream>

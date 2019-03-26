@@ -1,3 +1,4 @@
+//This program count the number of files and directories in a directory
 #include <unistd.h>
 #include <sys/types.h>
 #include <dirent.h>
