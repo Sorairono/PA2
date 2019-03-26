@@ -1,0 +1,11 @@
+Script started on Mon 04 Mar 2019 03:56:31 PM CST
+]0;alongday28@Sorairono: ~[01;32malongday28@Sorairono[00m:[01;34m~[00m$ ./filecnt /sur/[K[K[K[Kusr/share | fil[K[K[K./filedisp -d
+The total number of directories in directory /usr/share is: 8235
+]0;alongday28@Sorairono: ~[01;32malongday28@Sorairono[00m:[01;34m~[00m$ ./filecnt /usr/share | ./filedisp -d[Kf
+The total number of files in directory /usr/share is: 67492
+]0;alongday28@Sorairono: ~[01;32malongday28@Sorairono[00m:[01;34m~[00m$ ./filecnt /usr/share | ./filedisp -f[Kb
+The total number of bytes occupied by all files in directory /usr/share is: 1506270264
+]0;alongday28@Sorairono: ~[01;32malongday28@Sorairono[00m:[01;34m~[00m$ exit
+exit
+
+Script done on Mon 04 Mar 2019 03:57:00 PM CST
